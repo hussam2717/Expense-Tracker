@@ -23,3 +23,8 @@ Positive (+) amount → Income
 Negative (-) amount → Expense
 Click Add Transaction
 Balance, income, and expenses update automatically
+
+📂 Project Structure
+├── index.html
+├── style.css
+├── script.js
