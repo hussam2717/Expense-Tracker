@@ -15,3 +15,11 @@ Live Demo -
 HTML5
 CSS3
 JavaScript
+
+⚙️ How It Works
+Enter a description and amount
+Use:
+Positive (+) amount → Income
+Negative (-) amount → Expense
+Click Add Transaction
+Balance, income, and expenses update automatically
