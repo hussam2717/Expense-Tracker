@@ -28,3 +28,9 @@ Balance, income, and expenses update automatically
 ├── index.html
 ├── style.css
 ├── script.js
+
+🌱 Future Improvements
+💾 Local Storage support
+📱 Mobile optimization
+📈 Charts (monthly spending)
+🔐 User authentication (backend integration)
