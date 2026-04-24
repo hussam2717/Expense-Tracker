@@ -10,3 +10,8 @@ Live Demo -
 ❌ Delete transactions
 📋 Transaction history
 🎨 Clean and modern UI
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
